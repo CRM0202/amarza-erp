@@ -43,7 +43,7 @@ export default function Sidebar() {
         <div style={{ display: 'flex', alignItems: 'center', gap: '9px', padding: '7px 10px' }}>
           <div style={{ width: '28px', height: '28px', borderRadius: '50%', background: 'rgba(232,213,181,0.15)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '10px', fontWeight: '500', color: '#E8D5B5', flexShrink: 0 }}>JD</div>
           <div>
-            <div style={{ fontSize: '11.5px', color: 'rgba(232,213,181,0.75)', fontWeight: '500' }}>José Damarsa</div>
+            <div style={{ fontSize: '11.5px', color: 'rgba(232,213,181,0.75)', fontWeight: '500' }}>José Ignacio Bernal</div>
             <div style={{ fontSize: '10px', color: 'rgba(232,213,181,0.3)' }}>Propietario</div>
           </div>
         </div>
